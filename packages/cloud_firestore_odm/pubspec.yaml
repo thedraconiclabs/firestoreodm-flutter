@@ -11,7 +11,7 @@ environment:
   sdk: ">=3.9.2 <4.0.0"
 
 dependencies:
-  cloud_firestore: ^6.0.0
+  cloud_firestore: '>=6.0.0 <8.0.0'
   flutter:
     sdk: flutter
   json_annotation: ^4.9.0
